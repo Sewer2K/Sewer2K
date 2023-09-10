@@ -1,87 +1,55 @@
-<p align="center">
-  <img src="https://your-image-url-here.com" alt="Your Name" width="200" height="200">
-</p>
-
-<h1 align="center">Your Name's Python Playground 🐍</h1>
+<h1 id="hi-im-tar-👋--welcome-to-my-github-profile-">Hi I'm Sewer 👋 | Welcome to my ShitHub Profile !</h1>
 
 <p align="center">
-  Welcome to my Python world! Here you'll find a collection of my Python projects and experiments, where I explore the endless possibilities of this versatile language.
-</p>
-
-<p align="center">
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-YourUsername-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/Language-Python-green?style=for-the-badge&logo=Python&logoColor=green&label=Language&color=white">
+  <img src="https://img.shields.io/badge/Username-Sewer2K-green?style=for-the-badge&logo=Discord&logoColor=green&label=Discord&color=white">
+  <a href="https://discord.gg/azn" target="_blank">
+    <img src="https://img.shields.io/discord/729831380699185252?style=for-the-badge&logo=Discord&logoColor=green&label=Chat&color=white">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+  <img src="https://img.shields.io/twitch/status/nottherealtar?style=for-the-badge&logo=twitch&logoColor=green&label=Twitch&color=white">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC2LzU0acQ-wwZvf3OWwobVA?style=for-the-badge&logo=youtube&logoColor=green&color=white">
+  <img src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=white">
 </p>
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealtar&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealtar&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🧐 About Me
+<h2 id="Sewers-Crack-Den">Sewers Crack Den:</h2>
 
-Hi there! I'm Your Name, a passionate Python enthusiast and a hobbyist coder. I love to explore the power of Python and its various libraries for solving real-world problems and creating fun projects. Here's a little more about me:
+<ul>
+  <li>Front-End &amp; Back-End Dev Team.
+    <ul>
+      <li>Efficient, Professional &amp; Effective.
+        <ul>
+          <li>built to be to the point.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-- 🌱 I'm constantly learning and experimenting with Python.
-- 💼 By day, I'm [mention your day job or student status].
-- 📚 I'm always on the lookout for new Python libraries and frameworks.
-- 💬 Let's connect! Feel free to reach out if you want to discuss Python or collaborate on a project.
+<div align="left">
+    <br>
+    <img src="tocl.svg" width="400px">
+    <br>
+</div>
 
----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nottherealtar&repo=Duncan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 What I'm Working On
+<h2 id="more-information">More Information</h2>
 
-Here are some of my recent Python projects and experiments:
+<p><strong>You can find out more about me here&gt;</strong></p>
 
-1. **Project Name 1**
-   - Description: A brief description of your project.
-   - GitHub Repository: [Link](https://github.com/your-username/project-name-1)
-   - Technologies Used: Python, Libraries/Frameworks, etc.
+- [LinkTree]
+- [Twitch]
+- [YouTube]
+- [Kick]
 
-2. **Project Name 2**
-   - Description: Another cool project you've been working on.
-   - GitHub Repository: [Link](https://github.com/your-username/project-name-2)
-   - Technologies Used: Python, Libraries/Frameworks, etc.
+<h2 id="motivation">Motivation</h2>
 
-3. ...
-
-Feel free to explore my projects, and if you find something interesting, don't hesitate to leave a star or open an issue. Your feedback is highly appreciated!
-
----
-
-## 🛠️ Tech Stack
-
-Here are some of the Python technologies and tools I love to use:
-
-- **Python**: My go-to programming language.
-- **Libraries**: List some of your favorite Python libraries.
-- **Frameworks**: Mention any Python frameworks you enjoy working with.
-- **Tools**: Any development tools or IDEs you prefer.
-
----
-
-## 📫 Get in Touch
-
-I'm always open to discussions, collaborations, or just a friendly chat. You can find me on:
-
-- GitHub: [Your Username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-linkedin-profile)
-
-Feel free to reach out, and let's connect!
-
----
-
-## 🤝 Support
-
-If you find my work interesting or helpful, consider buying me a coffee to keep me fueled for more Python adventures.
-
-<a href="https://www.buymeacoffee.com/your-username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="50"></a>
-
----
-
-## 📝 License
-
-This repository is open-source and available under the [MIT License](LICENSE).
-
-Happy Coding! 🚀
+<ul>
+  <li>To expand my knowledge of programming, explore different project horizons and make a name/living for myself in the coding environment.
+    <ul>
+      <li>Donate <a href="https://bit.ly/3KMYYVh">Paypal</a>.</li>
+    </ul>
+  </li>
+</ul>
