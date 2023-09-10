@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=white">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sewer2K&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewer2Kr&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sewer2K&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewer2K&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 id="Sewers-Crack-Den">Sewers Crack Den:</h2>
 
