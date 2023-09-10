@@ -33,7 +33,7 @@
     <br>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nottherealtar&repo=Duncan&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/Sewer2K/Stoicism)]
 
 <h2 id="more-information">More Information</h2>
 
