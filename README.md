@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-green?style=for-the-badge&logo=Python&logoColor=green&label=Language&color=white">
   <img src="https://img.shields.io/badge/Username-Sewer2K-green?style=for-the-badge&logo=Discord&logoColor=green&label=Discord&color=white">
-  <a href="https://discord.gg/azn" target="_blank">
+  <a href="https://discord.gg/shrimpdick" target="_blank">
     <img src="https://img.shields.io/discord/729831380699185252?style=for-the-badge&logo=Discord&logoColor=green&label=Chat&color=white">
   </a>
   <img src="https://img.shields.io/twitch/status/nottherealtar?style=for-the-badge&logo=twitch&logoColor=green&label=Twitch&color=white">
