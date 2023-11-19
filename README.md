@@ -1,55 +1,25 @@
-<h1 id="hi-im-tar-👋--welcome-to-my-github-profile-">Hi I'm Sewer 👋 | Welcome to my ShitHub Profile !</h1>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-green?style=for-the-badge&logo=Python&logoColor=green&label=Language&color=white">
-  <img src="https://img.shields.io/badge/Username-Sewer2K-green?style=for-the-badge&logo=Discord&logoColor=green&label=Discord&color=white">
-  <a href="https://discord.gg/shrimpdick" target="_blank">
-    <img src="https://img.shields.io/discord/729831380699185252?style=for-the-badge&logo=Discord&logoColor=green&label=Chat&color=white">
-  </a>
-  <img src="https://img.shields.io/twitch/status/nottherealtar?style=for-the-badge&logo=twitch&logoColor=green&label=Twitch&color=white">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC2LzU0acQ-wwZvf3OWwobVA?style=for-the-badge&logo=youtube&logoColor=green&color=white">
-  <img src="https://img.shields.io/github/downloads/tar420/Duncan/total?style=for-the-badge&logo=discord&logoColor=green&label=DuncanBot&color=white">
-</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sewer2K&show_icons=true&theme=chartreuse-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewer2K&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sewer2K&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sewer2K&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sewer2K&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 id="Sewers-Crack-Den">Sewers Crack Den:</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<ul>
-  <li>Front-End &amp; Back-End Dev Team.
-    <ul>
-      <li>Efficient, Professional &amp; Effective.
-        <ul>
-          <li>built to be to the point.</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<div align="left">
-    <br>
-    <img src="https://camo.githubusercontent.com/ecebd3d985dc0d86171047e59009cf3fe8ab422b1bee74ad53fae83560e8cf48/68747470733a2f2f32352e6d656469612e74756d626c722e636f6d2f37326435383535653535613139373136343562393237633134646562633763652f74756d626c725f6d746a6765743450346d3172753339786d6f315f3530302e676966" width="400px">
-    <br>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Sewer2K&icon=0&color=12)](https://visitcount.itsvg.in)
 
-[![Readme Card](https://github.com/Sewer2K/Stoicism)]
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Sewer2kme) 
 
-<h2 id="more-information">More Information</h2>
-
-<p><strong>You can find out more about me here&gt;</strong></p>
-
-- [LinkTree]
-- [Twitch]
-- [YouTube]
-- [Kick]
-
-<h2 id="motivation">Motivation</h2>
-
-<ul>
-  <li>To expand my knowledge of programming, explore different project horizons and make a name/living for myself in the coding environment.
-    <ul>
-      <li>Donate <a href="https://bit.ly/3KMYYVh">Paypal</a>.</li>
-    </ul>
-  </li>
-</ul>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
