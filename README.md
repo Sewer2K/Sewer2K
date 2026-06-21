@@ -43,7 +43,6 @@ If you find my tools useful, feel free to drop a tip!
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Sewer2kme) 
 
 ---
----
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Sewer2K&color=blueviolet&style=flat-square" alt="Sewer2K Profile Views" />
 </p>
