@@ -37,7 +37,7 @@ I'm a developer focused on building automation tools, media downloaders, custom 
 
 ### 😂 Random Dev Meme
 <p align="center">
-  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="500"/>
+  <img src="https://ctf-api.vercel.app/api/meme" alt="Random Dev Meme" width="450"/>
 </p>
 
 ---
@@ -49,5 +49,5 @@ If you find my tools useful, feel free to drop a tip!
 
 ---
 <p align="right">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sewer2K&icon=0&color=12" alt="Visitor Count" /></a>
+  <img src="https://profile-counter.glitch.me/Sewer2K/count.svg" alt="Visitor Count" />
 </p>
