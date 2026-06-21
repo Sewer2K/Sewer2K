@@ -35,11 +35,6 @@ I'm a developer focused on building automation tools, media downloaders, custom 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<p align="center">
-  <img src="https://ctf-api.vercel.app/api/meme" alt="Random Dev Meme" width="450"/>
-</p>
-
 ---
 
 ## 💰 Support Me
@@ -48,6 +43,7 @@ If you find my tools useful, feel free to drop a tip!
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Sewer2kme) 
 
 ---
+---
 <p align="right">
-  <img src="https://profile-counter.glitch.me/Sewer2K/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Sewer2K&color=blueviolet&style=flat-square" alt="Sewer2K Profile Views" />
 </p>
