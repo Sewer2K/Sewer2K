@@ -27,51 +27,55 @@ with a growing interest in networking and systems-level programming.
 
 ### 🚀 Featured Projects
 
+_Auto-updated daily — always reflects my current top repos, so renamed or
+retired projects never leave a dead link behind._
+
+<!--START_SECTION:pinned-->
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **[yt-channel-downloader](https://github.com/Sewer2K/yt-channel-downloader)**
-Modern desktop app for browsing a YouTube channel's Videos/Shorts with
-thumbnail, title, and view-count previews, then downloading exactly what
-you select. Built with PySide6 + yt-dlp, with a persistent download
-history and one-click executable builds.
+Download YouTube channel videos & Shorts with a modern desktop GUI — yt-dlp + PySide6, thumbnail/title/view-count previews, quality picker, download history, standalone .exe
 
-`Python` `PySide6` `yt-dlp`
+`Python`  
+[![Stars](https://img.shields.io/github/stars/Sewer2K/yt-channel-downloader?style=flat&color=6c5ce7&label=%E2%98%85)](https://github.com/Sewer2K/yt-channel-downloader/stargazers) [![Forks](https://img.shields.io/github/forks/Sewer2K/yt-channel-downloader?style=flat&color=6c5ce7&label=forks)](https://github.com/Sewer2K/yt-channel-downloader/forks)
 
 </td>
 <td width="50%" valign="top">
 
-**[youtube-shorts-bulk-downloader](https://github.com/Sewer2K/youtube-shorts-bulk-downloader)**
-Bulk-download every Short from a given YouTube channel in one pass.
+**[Manga-Reader](https://github.com/Sewer2K/Manga-Reader)**
+Manga Reading Site With A Modern UX Design
 
-`Python`
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/Sewer2K/youtube-shorts-bulk-downloader?style=flat&color=6c5ce7)](https://github.com/Sewer2K/youtube-shorts-bulk-downloader/stargazers)
-[![Forks](https://img.shields.io/github/forks/Sewer2K/youtube-shorts-bulk-downloader?style=flat&color=6c5ce7)](https://github.com/Sewer2K/youtube-shorts-bulk-downloader/forks)
+`JavaScript`  
+[![Stars](https://img.shields.io/github/stars/Sewer2K/Manga-Reader?style=flat&color=6c5ce7&label=%E2%98%85)](https://github.com/Sewer2K/Manga-Reader/stargazers) [![Forks](https://img.shields.io/github/forks/Sewer2K/Manga-Reader?style=flat&color=6c5ce7&label=forks)](https://github.com/Sewer2K/Manga-Reader/forks)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Manga-Reader](https://github.com/Sewer2K/Manga-Reader)**
-A manga reading site built with a clean, modern UX.
+**[StreamNator](https://github.com/Sewer2K/StreamNator)**
+Native Android TV IPTV player with M3U and Xtream Codes support, Netflix-style dashboard, full EPG guide, and ExoPlayer HLS streaming — built in Kotlin.
 
-`JavaScript`
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/Sewer2K/Manga-Reader?style=flat&color=6c5ce7)](https://github.com/Sewer2K/Manga-Reader/stargazers)
+`Kotlin`  
+[![Stars](https://img.shields.io/github/stars/Sewer2K/StreamNator?style=flat&color=6c5ce7&label=%E2%98%85)](https://github.com/Sewer2K/StreamNator/stargazers) [![Forks](https://img.shields.io/github/forks/Sewer2K/StreamNator?style=flat&color=6c5ce7&label=forks)](https://github.com/Sewer2K/StreamNator/forks)
 
 </td>
 <td width="50%" valign="top">
 
-**More on my profile →**
-Check out [all repositories](https://github.com/Sewer2K?tab=repositories)
-for smaller scripts, tools, and experiments.
+**[Twitch-Chat-Translator](https://github.com/Sewer2K/Twitch-Chat-Translator)**
+A Chrome/Brave extension that automatically translates Twitch chat into your selected language.
+
+`JavaScript`  
+[![Stars](https://img.shields.io/github/stars/Sewer2K/Twitch-Chat-Translator?style=flat&color=6c5ce7&label=%E2%98%85)](https://github.com/Sewer2K/Twitch-Chat-Translator/stargazers) [![Forks](https://img.shields.io/github/forks/Sewer2K/Twitch-Chat-Translator?style=flat&color=6c5ce7&label=forks)](https://github.com/Sewer2K/Twitch-Chat-Translator/forks)
 
 </td>
 </tr>
 </table>
+
+<!--END_SECTION:pinned-->
 
 ---
 
