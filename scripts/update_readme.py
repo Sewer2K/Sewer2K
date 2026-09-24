@@ -28,23 +28,11 @@ END_MARKER = "<!--END_SECTION:pinned-->"
 
 # Repos that should never appear in the auto-generated portfolio section,
 # regardless of star count.
-EXCLUDE_REPOS = {
-    "toxnetv2",
-    "vuln-scanner-exploit-combo",
-    "nervnet",
-    "valtrig",
-    "api-key-scraper-for-popular-llms",
-    "xss-tool-list-",
-}
+EXCLUDE_REPOS = {}
 
 # Secondary keyword safety net, in case a future repo covers similar
 # ground before anyone remembers to add it to EXCLUDE_REPOS above.
-BLOCKED_KEYWORDS = [
-    "botnet", "c2 framework", "exploit module", "ddos", "payload",
-    "backdoor", "keylogger", "triggerbot", "aimbot", "wallhack", "malware",
-    "leaked api key", "api key scraper", "credential harvest", "stealer",
-    "brute force", "ransomware", "xss tool", "sql injection tool",
-]
+BLOCKED_KEYWORDS = []
 
 
 def api_get(path: str):
